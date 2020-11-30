@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: github-website
-        image: vijindask/git-doc-website
+        image: praveen/capstone2
         ports:
         - containerPort: 81
